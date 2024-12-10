@@ -23,9 +23,11 @@ There's some math behind this, you need not know every mathematical
 detail. If you're getting an intuition of the stuff above, you're good to
 go.
 
-As you also have python assignments we're expecting you to give these 2-3 days
-(learn it thoroughly). A good understanding of this concept will give you a
-good foundation and serve as a good introduction to machine learning!
+You also have few python assignments coming up this week, so we're expecting
+you to give these atleast the first 2-3 days (learn it thoroughly). You can do
+these and the python assignments in parallel too if it takes longer time. A
+good understanding of this concept will give you a good foundation and serve as
+a good introduction to machine learning!
 
 If you're done with these, you can try reading about perceptron algorithm
 which trains a binary classifier on a given data.
